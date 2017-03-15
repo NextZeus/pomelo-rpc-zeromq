@@ -1,5 +1,5 @@
 pomelo-rpc-zeromq
-=================
+
 
 pomelo-rpc-zeromq is the low level RPC framework for pomelo project. It contains two parts: client and server.
 
@@ -13,7 +13,8 @@ And the remote service codes would loaded by pomelo-loader module and more detai
 
 ##Installation
 ```
-npm install pomelo-rpc-zeromq
+npm i pomelo-rpc-zeromq-renew --save
+
 ```
 
 ##Usage
